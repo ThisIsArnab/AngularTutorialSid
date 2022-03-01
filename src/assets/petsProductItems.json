@@ -1,0 +1,38 @@
+[
+    {
+      "id": "PT001",
+      "productName": "Pedigree Adult Dry Pellet Dog Food",
+      "shortDesc": "Dog food that also promotes Digestive Health and supports Natural Defences",
+      "priceUSD": "49.99",
+      "category": "PetProduct"
+    },
+    {
+      "id": "PT002",
+      "productName": "Pet Teeth Cleaning Chewing Biting Knotted Toy",
+      "shortDesc": "Cotton toys are made of soft and durable cotton material",
+      "priceUSD": "5.99",
+      "category": "PetProduct"
+    },
+    {
+      "id": "PT003",
+      "productName": "Super Soft Velvet Round Cat Dog Pet Bed",
+      "shortDesc": "Reversible Round Beds for your pet",
+      "priceUSD": "7.99",
+      "category": "PetProduct"
+    },
+    {
+      "id": "PT004",
+      "productName": "BURAQ Aquarium Fish Tank",
+      "shortDesc": "It is submersible and with moveable suction cups, mount the light on tank bottom or at the top, attach it into the tank any angle or even outside the tank",
+      "priceUSD": "29.99",
+      "category": "PetProduct"
+    },
+    {
+      "id": "PT005",
+      "productName": "Optimum Highly Nutritious Food Mini Pellet for Fish",
+      "shortDesc": "Suitable for all aquarium fish species such as goldfish, fancy carp, swordtails, platies, mollies, angelfish, cichlids, anabantids and bettas",
+      "priceUSD": "5.99",
+      "category": "PetProduct"
+    }
+  ]
+  

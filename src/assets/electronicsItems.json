@@ -1,0 +1,51 @@
+[
+    {
+      "id": "EC001",
+      "productName": "Samsung Galaxy Smart Watch",
+      "shortDesc": "Measure body composition with the Powerful Samsung BioActive Sensor",
+      "priceUSD": "310",
+      "category": "Electronics"
+    },
+    {
+      "id": "EC002",
+      "productName": "Sony Bravia Color TV",
+      "shortDesc": "See glorious 4K pictures rich with real world detail and texture, exclusively powered by our 4K Processor X1",
+      "priceUSD": "993",
+      "category": "Electronics"
+    },
+    {
+      "id": "EC003",
+      "productName": "Apple iPhone 13",
+      "shortDesc": "Most advanced dual-camera system ever on a smartphone",
+      "priceUSD": "1450",
+      "category": "Electronics"
+    },
+    {
+      "id": "EC004",
+      "productName": "Samsung Galaxy Tab A8",
+      "shortDesc": "A bigger view to a broader world",
+      "priceUSD": "238",
+      "category": "Electronics"
+    },
+    {
+      "id": "EC005",
+      "productName": "Lenovo IdeaPad Slim 3",
+      "shortDesc": "Go slim, go stylish, game changing performance",
+      "priceUSD": "499",
+      "category": "Electronics"
+    },
+    {
+      "id": "EC006",
+      "productName": "JBL C100SI",
+      "shortDesc": "Experience everyday musical journey more appealing",
+      "priceUSD": "13",
+      "category": "Electronics"
+    },
+    {
+      "id": "EC007",
+      "productName": "Canon EOS 1500D",
+      "shortDesc": "Superb clarity even in low light",
+      "priceUSD": "489",
+      "category": "Electronics"
+    }
+  ]

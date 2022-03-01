@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import { Observable } from 'rxjs';
+import { ClothingCategory } from './clothing-category.interface';
+import { ClothingCategoryService } from './clothing-category.service';
 
 @Component({
   selector: 'app-clothing-category',
@@ -7,9 +10,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ClothingCategoryComponent implements OnInit {
 
-  constructor() { }
+  // Observable provides you with the data
+  allClothingItems: Observable<ClothingCategory[]> | undefined;
+
+  // inject the ClothingCategoryService through dependency injection
+  constructor(private clothingCategorySvc: ClothingCategoryService) { }
 
   ngOnInit(): void {
+    this.allClothingItems = this.clothingCategorySvc.getAllClothingItems();
   }
 
 }

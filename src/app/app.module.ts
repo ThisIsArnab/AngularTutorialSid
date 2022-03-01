@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { ClothingCategoryComponent } from './clothing-category/clothing-category.component';
 import { ElectronicsCategoryComponent } from './electronics-category/electronics-category.component';
 import { PetProductsCategoryComponent } from './pet-products-category/pet-products-category.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { PetProductsCategoryComponent } from './pet-products-category/pet-produc
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,0 +1,44 @@
+[
+    {
+      "id": "CL001",
+      "productName": "Scott International Regular Fit T-Shirt",
+      "shortDesc": "Create a lasting impression in this Regular Fit T-Shirt. Crafted in Cotton and having a Solid pattern,with Pull On closure",
+      "priceUSD": "6.99",
+      "category": "Clothing"
+    },
+    {
+      "id": "CL002",
+      "productName": "U.S. POLO ASSN. Men's",
+      "shortDesc": "Today, our products are sold through in over 135 countries at independent retail stores",
+      "priceUSD": "7.99",
+      "category": "Clothing"
+    },
+    {
+      "id": "CL003",
+      "productName": "Diverse Men's Regular Formal Shirt",
+      "shortDesc": "Double yoke for extra durability & stiffness. Patch pocket at chest",
+      "priceUSD": "7.49",
+      "category": "Clothing"
+    },
+    {
+      "id": "CL004",
+      "productName": "Qube By Fort Collins Women's Jacket",
+      "shortDesc": "Soft and sturdy lightweight fabric with excellent wind/cold resistance",
+      "priceUSD": "8.99",
+      "category": "Clothing"
+    },
+    {
+      "id": "CL005",
+      "productName": "KOTTY Womens High Rise Jeans",
+      "shortDesc": "Stylish & brand new jeans speacially for women",
+      "priceUSD": "6.49",
+      "category": "Clothing"
+    },
+    {
+      "id": "CL006",
+      "productName": "MIMOSA Women's Kanchipuram Art Silk Saree",
+      "shortDesc": "This product is hand dyed and a lot of hand work is involved in preparing the product",
+      "priceUSD": "21.99",
+      "category": "Clothing"
+    }
+  ]

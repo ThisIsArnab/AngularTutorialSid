@@ -1,20 +1,9 @@
 <div class="clothing-category">
-    <div class="clothing-item">Item1</div>
-
-    <div class="clothing-item">Item2</div>
-
-    <div class="clothing-item">Item3</div>
-
-    <div class="clothing-item">Item4</div>
-
-    <div class="clothing-item">Item5</div>
-
-    <div class="clothing-item">Item6</div>
-
-    <div class="clothing-item">Item7</div>
-
-    <div class="clothing-item">Item8</div>
-
-    <div class="clothing-item">Item9</div>
-
+    <!-- async is a pipe. We will talk about it later -->
+    <div class="clothing-item" *ngFor="let item of allClothingItems | async">
+        <p>Product id: {{item.id}}</p>
+        <p>Product Name: {{item.productName}}</p>
+        <p>Product Description: {{item.shortDesc}}</p>
+        <p>Product Price: {{item.priceUSD}}</p>
+    </div>
 </div>
